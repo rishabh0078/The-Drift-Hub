@@ -1,15 +1,25 @@
 ---
-title: "Why Top TikTok Creators are Moving to YouTube and Substack"
-description: "With monetization challenges and platform volatility, the creator economy is experiencing a massive migration toward owned channels and long-form video."
-pubDate: 2026-06-06
-author: "Rishabh Chaudhary"
-authorImage: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=150&auto=format&fit=crop"
-category: "creators"
-tags: ["Creator Economy", "YouTube Shorts", "TikTok", "Substack", "Monetization"]
-image: "https://images.unsplash.com/photo-1616469829581-73993eb86b02?q=80&w=1200&auto=format&fit=crop"
-imageAlt: "Professional podcasting studio with microphone and ambient studio lighting"
+title: Why Top TikTok Creators are Moving to YouTube and Substack
+description: >-
+  With monetization challenges and platform volatility, the creator economy is
+  experiencing a massive migration toward owned channels and long-form video.
+pubDate: '2026-06-06T00:00:00.000Z'
+author: Rishabh Chaudhary
+authorImage: >-
+  https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=150&auto=format&fit=crop
+category: creators
+tags:
+  - Creator Economy
+  - YouTube Shorts
+  - TikTok
+  - Substack
+  - Monetization
+image: >-
+  https://images.unsplash.com/photo-1616469829581-73993eb86b02?q=80&w=1200&auto=format&fit=crop
+imageAlt: Professional podcasting studio with microphone and ambient studio lighting
 featured: false
-trending: true
+trending: false
+weeklyHighlight: false
 ---
 
 For years, TikTok was the undisputed gold rush platform for new talent. A single viral video could launch a career overnight. But in 2026, the tides are shifting. A significant number of high-profile creators are diversifying away from TikTok, redirecting their primary focus toward YouTube Shorts, long-form content, and subscription platforms like Substack and Patreon.

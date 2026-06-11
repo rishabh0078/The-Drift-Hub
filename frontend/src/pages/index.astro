@@ -5,7 +5,7 @@ import ArticleCard from '../components/ArticleCard.astro';
 import TrendingList from '../components/TrendingList.astro';
 
 // Fetch articles
-const allPosts = await getCollection('blog');
+const allPosts = await getCollection('blog', ({ data }) => import.meta.env.DEV || !data.draft);
 const sortedPosts = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 // Featured post (hero slot)
