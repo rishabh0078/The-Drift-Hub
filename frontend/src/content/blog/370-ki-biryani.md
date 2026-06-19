@@ -15,7 +15,7 @@ tags:
   - pranit-more-controversy
 image: /images/370-biryani-1781193976473.png
 imageAlt: 370 biryani controversy
-featured: true
+featured: false
 trending: true
 weeklyHighlight: true
 draft: false
