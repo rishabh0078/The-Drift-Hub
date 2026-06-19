@@ -1,14 +1,17 @@
 import type { APIRoute } from 'astro';
 
-const robotsTxt = `
+export const GET: APIRoute = ({ site }) => {
+  const sitemapUrl = site ? new URL('sitemap-index.xml', site).href : 'https://the-daily-drift-tau.vercel.app/sitemap-index.xml';
+  
+  const robotsTxt = `
 User-agent: *
 Allow: /
 
-Sitemap: https://thedailydrift.com/sitemap-index.xml
+Sitemap: ${sitemapUrl}
 `.trim();
 
-export const GET: APIRoute = () => {
   return new Response(robotsTxt, {
     headers: { 'Content-Type': 'text/plain' },
   });
 };
+
