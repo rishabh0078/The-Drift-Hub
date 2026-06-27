@@ -4,7 +4,7 @@ description: >-
   The clip that went viral, says Himanshu that he went on a date with a girl and
   paid around ₹370 for a chicken biryani. The tale began rather ordinarily.
 pubDate: '2026-06-11'
-author: The Daily Drift
+author: The Drift Hub
 authorImage: /images/the-daily-drift-1781194427386.png
 category: memes-trends
 tags:

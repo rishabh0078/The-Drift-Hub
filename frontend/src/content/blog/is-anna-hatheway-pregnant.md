@@ -5,7 +5,7 @@ description: >-
   godmother waving her magic wand at midnight, just when you thought it couldn't
   get crazier
 pubDate: '2026-06-19'
-author: The Daily Drift
+author: The Drift Hub
 authorImage: /images/the-daily-drift-1781891934165.png
 category: creators
 tags:

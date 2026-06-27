@@ -7,7 +7,7 @@ import vercel from '@astrojs/vercel';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://the-daily-drift-tau.vercel.app',
+  site: 'https://thedrifthub.com',
   adapter: vercel(),
   integrations: [sitemap()],
   vite: {

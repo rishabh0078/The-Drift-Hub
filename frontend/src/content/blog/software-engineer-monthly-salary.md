@@ -5,7 +5,7 @@ description: >-
   take-home pay breakdowns by experience level, taxes, and location. Entry level
   to senior
 pubDate: '2026-06-26'
-author: The Daily Drift
+author: The Drift Hub
 authorImage: /images/the-daily-drift-1782490022784.png
 category: tech-ai
 tags:

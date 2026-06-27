@@ -4,7 +4,7 @@ description: >-
   Over the past few days, many users have reported losing access to the model or
   finding that it no longer appears in their list of available Claude options.
 pubDate: '2026-06-19'
-author: The Daily Drift
+author: The Drift Hub
 authorImage: /images/the-daily-drift-1781883570918.png
 category: tech-ai
 tags:

@@ -1,7 +1,7 @@
 import type { APIRoute } from 'astro';
 
 export const GET: APIRoute = ({ site }) => {
-  const sitemapUrl = site ? new URL('sitemap-index.xml', site).href : 'https://the-daily-drift-tau.vercel.app/sitemap-index.xml';
+  const sitemapUrl = site ? new URL('sitemap-index.xml', site).href : 'https://thedrifthub.com/sitemap-index.xml';
 
   const robotsTxt = `
 User-agent: *
