@@ -5,7 +5,7 @@ description: >-
   finding that it no longer appears in their list of available Claude options.
 pubDate: '2026-06-19'
 author: The Drift Hub
-authorImage: /images/the-daily-drift-1781883570918.png
+authorImage: /images/the-drift-hub-1782562225207.png
 category: tech-ai
 tags:
   - claude-fable-5

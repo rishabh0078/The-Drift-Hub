@@ -6,7 +6,7 @@ description: >-
   to senior
 pubDate: '2026-06-26'
 author: The Drift Hub
-authorImage: /images/the-daily-drift-1782490022784.png
+authorImage: /images/the-drift-hub-1782562213795.png
 category: tech-ai
 tags:
   - software-engineer-salary-2026

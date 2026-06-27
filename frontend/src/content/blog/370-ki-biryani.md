@@ -5,7 +5,7 @@ description: >-
   paid around ₹370 for a chicken biryani. The tale began rather ordinarily.
 pubDate: '2026-06-11'
 author: The Drift Hub
-authorImage: /images/the-daily-drift-1781194427386.png
+authorImage: /images/the-drift-hub-1782562265059.png
 category: memes-trends
 tags:
   - 370-ki-biryani
