@@ -4,7 +4,7 @@ description: >-
   Compare the GTA 6 map vs GTA 5, explore GTA 6 map size in km, map area,
   real-life locations, and discover which city the GTA 6 map is based on.
 pubDate: '2026-06-29'
-author: The Daily Drift
+author: The Drift Hub
 authorImage: /images/the-drift-hub-1782731386451.png
 category: memes-trends
 tags:
@@ -102,7 +102,3 @@ The GTA 6 map draws heavily from Miami, the Florida Everglades, the Florida Keys
 **Is the GTA 6 map bigger than GTA 5?**
 
 Based on available leaks and community analysis, yes, the GTA 6 map appears to be larger than GTA 5. Official confirmation of exact dimensions has not come from Rockstar yet, but consistent estimates across multiple sources point to a meaningfully larger world.
-
-
-
-

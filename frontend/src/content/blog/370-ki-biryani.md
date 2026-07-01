@@ -16,8 +16,8 @@ tags:
 image: /images/370-biryani-1781193976473.png
 imageAlt: 370 biryani controversy
 featured: false
-trending: true
-weeklyHighlight: true
+trending: false
+weeklyHighlight: false
 draft: false
 ---
 
