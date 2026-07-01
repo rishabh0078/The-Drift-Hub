@@ -24,10 +24,3 @@ Thumbs.db
 .vscode/settings.json
 *.log
 
-# Agent configurations & locks
-.agents/
-skills-lock.json
-
-# Design document
-DESIGN.md
-
