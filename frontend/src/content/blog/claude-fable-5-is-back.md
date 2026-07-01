@@ -61,6 +61,7 @@ Claude Fable 5 is being restored globally across the Claude platform, Claude.AI,
 If you are not seeing Fable 5 available immediately, the rollout may be gradual rather than instant across all platforms simultaneously. Checking back over the next day or two should resolve it.
 
 **What Users and Developers Should Know**
+
 If you have been waiting to get back into Claude Fable 5, the straightforward answer is that access is returning today, July 1, and the suspension is fully over. If you are not seeing it available immediately on your platform, the rollout may be gradual across different surfaces so giving it a day or two should sort it out.
 For anyone on a Pro, Max, Team, or selected enterprise plan, Fable 5 will be available at up to 50 percent of your weekly usage limits through July 7 as part of the return rollout. Access through Amazon Web Services, Google Cloud, and Microsoft Foundry is also expected to be restored shortly, according to Anthropic.
 For developers who switched to Claude Opus 4.8 as a fallback during the suspension, Fable 5 is now safe to reintegrate into your workflows. That said, one practical takeaway from everything that happened is worth keeping in mind going forward. Any single AI model, regardless of how established it seems, can become temporarily unavailable for reasons entirely outside your control. Having a fallback option ready is not paranoia. After the past 18 days, it is just good practice.
