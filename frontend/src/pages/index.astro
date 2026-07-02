@@ -36,9 +36,22 @@ const categoryColors = {
   'creators': 'text-violet border-violet/20 bg-violet/5',
   'movies-ott': 'text-warning border-warning/20 bg-warning/5',
 };
+
+const SITE = 'https://thedrifthub.com';
+
+// Generate ItemList schema for latest posts to give Google a structured feed
+const itemListSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  'itemListElement': latestPosts.slice(0, 10).map((post, index) => ({
+    '@type': 'ListItem',
+    'position': index + 1,
+    'url': `${SITE}/posts/${post.id}`
+  }))
+};
 ---
 
-<Layout>
+<Layout jsonLd={itemListSchema}>
   <!-- Decorative top gradient bar -->
   <div class="h-1.5 w-full bg-gradient-to-r from-gradient-dev-start via-violet to-highlight-pink"></div>
 
