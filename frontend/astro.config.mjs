@@ -8,6 +8,7 @@ import vercel from '@astrojs/vercel';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://thedrifthub.com',
+  trailingSlash: 'never',
   adapter: vercel(),
   integrations: [sitemap()],
   vite: {
