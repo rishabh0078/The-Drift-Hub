@@ -4,8 +4,8 @@ description: >-
   Over the past few days, many users have reported losing access to the model or
   finding that it no longer appears in their list of available Claude options.
 pubDate: '2026-06-19'
-author: The Drift Hub
-authorImage: /images/the-drift-hub-1782562225207.png
+author: The Trend Obs
+authorImage: /images/logo-1783759467158.png
 category: tech-ai
 tags:
   - claude-fable-5

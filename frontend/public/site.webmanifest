@@ -1,13 +1,13 @@
 {
-  "name": "The Drift Hub",
-  "short_name": "Drift Hub",
+  "name": "The Trend Obs",
+  "short_name": "Trend Obs",
   "description": "Your premier source for Tech, Memes, Creators & Movie Reviews",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0a0a0a",
   "icons": [
-    { "src": "/favicon.svg", "type": "image/svg+xml", "sizes": "any" },
-    { "src": "/favicon.ico", "sizes": "48x48", "type": "image/x-icon" }
+    { "src": "/favicon.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
   ]
 }

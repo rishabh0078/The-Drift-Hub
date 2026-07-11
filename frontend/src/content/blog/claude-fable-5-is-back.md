@@ -4,8 +4,8 @@ description: >-
   Claude Fable 5 was suspended and unavailable following an export ban. Get the
   release update, full news, and confirmation of its official return.
 pubDate: '2026-07-01'
-author: The Drift Hub
-authorImage: /images/the-drift-hub-1782887291363.png
+author: The Trend Obs
+authorImage: /images/logo-1783759450118.png
 category: tech-ai
 tags:
   - claude-fable-5-ban

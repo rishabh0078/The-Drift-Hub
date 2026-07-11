@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="robots" content="noindex, nofollow" />
-  <title>Admin — The Daily Drift CMS</title>
+  <title>Admin — The Trend Obs CMS</title>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
 
@@ -260,7 +260,7 @@
 <!-- ═══════════════════ SIDEBAR ═══════════════════ -->
 <div class="sidebar">
   <div class="sidebar-logo">
-    <div class="sidebar-logo-text">The Daily <span>Drift</span></div>
+    <div class="sidebar-logo-text">The Trend <span>Obs</span></div>
     <div class="sidebar-logo-sub">Content Studio</div>
   </div>
   <div class="sidebar-nav">
@@ -314,7 +314,7 @@
 
 <script>
 // ═══════════════════════════════════════════════════════════════════════════════
-// The Daily Drift — Admin CMS (Pure Vanilla JS — zero CDN dependencies)
+// The Trend Obs — Admin CMS (Pure Vanilla JS — zero CDN dependencies)
 // ═══════════════════════════════════════════════════════════════════════════════
 
 const API = 'http://localhost:4322/api';
@@ -467,7 +467,7 @@ function renderDashboard() {
     <div class="flex items-center justify-between mb-6">
       <div>
         <h2>Dashboard</h2>
-        <div class="text-mute mt-2">Welcome to The Daily Drift CMS</div>
+        <div class="text-mute mt-2">Welcome to The Trend Obs CMS</div>
       </div>
       <button class="btn btn-grad" onclick="navigateTo('new')">＋ New Post</button>
     </div>
@@ -595,7 +595,7 @@ function renderEditor(initial) {
   const isEdit = !!initial;
   editorPost = initial ? { ...initial, tags: [...(initial.tags||[])] } : {
     slug:'', title:'', description:'', pubDate: new Date().toISOString().split('T')[0],
-    author:'The Daily Drift', authorImage:'', category:'tech-ai',
+    author:'The Trend Obs', authorImage:'', category:'tech-ai',
     tags:[], image:'', imageAlt:'', featured:false, trending:false, weeklyHighlight:false, draft:true, body:''
   };
   editorSlugEdited = isEdit;

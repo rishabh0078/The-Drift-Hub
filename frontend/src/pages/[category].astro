@@ -55,19 +55,19 @@ const categoryMetadata = {
 
 const meta = categoryMetadata[category as keyof typeof categoryMetadata] || {
   name: 'Articles',
-  description: 'The latest stories from The Drift Hub.',
+  description: 'The latest stories from The Trend Obs.',
   colorClass: 'border-primary text-primary bg-primary/5',
   accentColor: 'from-primary to-[#333333]',
 };
 
 // Collection Schema for Google SEO
-const SITE = 'https://thedrifthub.com';
+const SITE = 'https://the-trend-obs.vercel.app';
 const collectionSchema = {
   '@context': 'https://schema.org',
   '@type': 'CollectionPage',
   '@id': `${SITE}/${category}/#collection`,
   'url': `${SITE}/${category}`,
-  'name': `${meta.name} Articles | The Drift Hub`,
+  'name': `${meta.name} Articles | The Trend Obs`,
   'description': meta.description,
   'isPartOf': {
     '@id': `${SITE}/#website`
@@ -80,7 +80,7 @@ const collectionSchema = {
 ---
 
 <Layout
-  title={`${meta.name} | The Drift Hub`}
+  title={`${meta.name} | The Trend Obs`}
   description={meta.description}
   jsonLd={collectionSchema}
 >

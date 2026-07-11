@@ -7,7 +7,7 @@ import vercel from '@astrojs/vercel';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://thedrifthub.com',
+  site: 'https://the-trend-obs.vercel.app',
   trailingSlash: 'never',
   adapter: vercel(),
   integrations: [sitemap()],

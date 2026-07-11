@@ -43,7 +43,7 @@ const formattedDate = post.data.pubDate.toLocaleDateString('en-US', {
   day: 'numeric',
 });
 
-const SITE = 'https://thedrifthub.com';
+const SITE = 'https://the-trend-obs.vercel.app';
 const postUrl = `${SITE}/posts/${post.id}`;
 
 const blogPostSchema = {
@@ -101,7 +101,7 @@ const breadcrumbSchema = {
 ---
 
 <Layout
-  title={`${post.data.title} | The Drift Hub`}
+  title={`${post.data.title} | The Trend Obs`}
   description={post.data.description}
   image={post.data.image}
   ogType="article"

@@ -4,8 +4,8 @@ description: >-
   Compare the GTA 6 map vs GTA 5, explore GTA 6 map size in km, map area,
   real-life locations, and discover which city the GTA 6 map is based on.
 pubDate: '2026-06-29'
-author: The Drift Hub
-authorImage: /images/the-drift-hub-1782731386451.png
+author: The Trend Obs
+authorImage: /images/logo-1783759459757.png
 category: memes-trends
 tags:
   - gta-6-map-compared-to-gta-5

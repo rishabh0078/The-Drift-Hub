@@ -1,4 +1,4 @@
-// ─── The Daily Drift — Local CMS Server ──────────────────────────────────────
+// ─── The Trend Obs — Local CMS Server ──────────────────────────────────────
 // Runs on http://localhost:4322
 // Reads/writes markdown files in src/content/blog/
 // Zero impact on Astro build or SEO — this file is never deployed
@@ -115,7 +115,7 @@ app.post('/api/posts', (req, res) => {
     title: frontmatter.title || '',
     description: frontmatter.description || '',
     pubDate: frontmatter.pubDate || new Date().toISOString().split('T')[0],
-    author: frontmatter.author || 'The Daily Drift',
+    author: frontmatter.author || 'The Trend Obs',
     ...(frontmatter.authorImage ? { authorImage: frontmatter.authorImage } : {}),
     category: frontmatter.category || 'tech-ai',
     tags: Array.isArray(frontmatter.tags) ? frontmatter.tags : [],
@@ -187,7 +187,7 @@ app.get('/', (req, res) => res.redirect('/admin'));
 
 app.listen(PORT, () => {
   console.log('');
-  console.log('  ✦ The Daily Drift CMS');
+  console.log('  ✦ The Trend Obs CMS');
   console.log(`  ➜  Admin dashboard: http://localhost:${PORT}/admin`);
   console.log('');
 });
